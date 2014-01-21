@@ -2,4 +2,7 @@
 tikz-opm
 --------
 
-A tikz library for OPM diagrams
+A tikz library for OPM diagrams.
+
+
+See tikz-opm.pdf for how to use it.
